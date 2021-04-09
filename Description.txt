@@ -1,0 +1,23 @@
+The Project is about getting Employees details from the datasource. It has a 3 layered architecture which consists of the followig:
+
+1). UI :-
+
+-> It contains two field i.e EMployee ID and Employee Name of whom we want to get details.
+-> It also contain a text area to display the details of employees in a specified format.
+-> The UI is made using HTML and Jquery,Ajax to send and receive data.
+
+2). Middleware :-
+
+-> The data from the UI is given to middleware using REST API.
+-> The data is then passed to the server using Socket programming.
+-> The middleware acts as CLient and send the data to the server through specified POrt number.
+-> The details of the EMployees is then received from the data source through socket but the fields are different.
+-> So using Automapper we map the data in required format and send to the UI in text area through REST API.
+-> Middleware is made in .Net Core environment and uses REST API and Client server architecture.
+
+3). Server:-
+
+-> The server is basically a datasource where data is stored in JSON format.
+-> WE find the details of employees using name and id which is send through UI and then fetches all the details of the employee and send to middleware using socket.
+-> In middleware it is mapped to specified format and then send to UI.
+-> It is made using SOcket Programming.  
