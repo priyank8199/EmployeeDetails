@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\POC\POC\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\EmployeeServer.exe
+C:\Users\user\source\repos\POC\POC\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\EmployeeMiddleware.exe
+C:\Users\user\source\repos\POC\POC\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\EmployeeServer.deps.json
+C:\Users\user\source\repos\POC\POC\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\EmployeeServer.runtimeconfig.json
+C:\Users\user\source\repos\POC\POC\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\appsettings.Development.json
+C:\Users\user\source\repos\POC\POC\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\appsettings.json
+C:\Users\user\source\repos\POC\POC\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\EmployeeMiddleware.dll
+C:\Users\user\source\repos\POC\POC\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\EmployeeMiddleware.deps.json
+C:\Users\user\source\repos\POC\POC\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\EmployeeMiddleware.runtimeconfig.json
+C:\Users\user\source\repos\POC\POC\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\EmployeeMiddleware.pdb
+C:\Users\user\source\repos\POC\POC\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\AutoMapper.dll
+C:\Users\user\source\repos\POC\POC\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\user\source\repos\POC\POC\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\user\source\repos\POC\POC\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\EmployeeServer.dll
+C:\Users\user\source\repos\POC\POC\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\EmployeeServer.pdb

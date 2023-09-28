@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\POC\EmployeeServer\bin\Release\netcoreapp3.1\EmployeeServer.exe
+C:\Users\user\source\repos\POC\EmployeeServer\bin\Release\netcoreapp3.1\EmployeeServer.deps.json
+C:\Users\user\source\repos\POC\EmployeeServer\bin\Release\netcoreapp3.1\EmployeeServer.runtimeconfig.json
+C:\Users\user\source\repos\POC\EmployeeServer\bin\Release\netcoreapp3.1\EmployeeServer.runtimeconfig.dev.json
+C:\Users\user\source\repos\POC\EmployeeServer\bin\Release\netcoreapp3.1\EmployeeServer.dll
+C:\Users\user\source\repos\POC\EmployeeServer\bin\Release\netcoreapp3.1\EmployeeServer.pdb
+C:\Users\user\source\repos\POC\EmployeeServer\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user\source\repos\POC\EmployeeServer\obj\Release\netcoreapp3.1\EmployeeServer.csprojAssemblyReference.cache
+C:\Users\user\source\repos\POC\EmployeeServer\obj\Release\netcoreapp3.1\EmployeeServer.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\POC\EmployeeServer\obj\Release\netcoreapp3.1\EmployeeServer.AssemblyInfo.cs
+C:\Users\user\source\repos\POC\EmployeeServer\obj\Release\netcoreapp3.1\EmployeeServer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\POC\EmployeeServer\obj\Release\netcoreapp3.1\EmployeeServer.csproj.CopyComplete
+C:\Users\user\source\repos\POC\EmployeeServer\obj\Release\netcoreapp3.1\EmployeeServer.dll
+C:\Users\user\source\repos\POC\EmployeeServer\obj\Release\netcoreapp3.1\EmployeeServer.pdb
+C:\Users\user\source\repos\POC\EmployeeServer\obj\Release\netcoreapp3.1\EmployeeServer.genruntimeconfig.cache

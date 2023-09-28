@@ -1,6 +1,5 @@
 C:\Users\user\source\repos\POC\EmployeeClient\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\user\source\repos\POC\EmployeeClient\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\user\source\repos\POC\EmployeeClient\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\user\source\repos\POC\EmployeeClient\bin\Debug\netcoreapp3.1\EmployeeClient.exe
 C:\Users\user\source\repos\POC\EmployeeClient\bin\Debug\netcoreapp3.1\EmployeeClient.deps.json
 C:\Users\user\source\repos\POC\EmployeeClient\bin\Debug\netcoreapp3.1\EmployeeClient.runtimeconfig.json
@@ -35,3 +34,4 @@ C:\Users\user\source\repos\POC\EmployeeClient\obj\Debug\netcoreapp3.1\EmployeeCl
 C:\Users\user\source\repos\POC\EmployeeClient\obj\Debug\netcoreapp3.1\EmployeeClient.pdb
 C:\Users\user\source\repos\POC\EmployeeClient\obj\Debug\netcoreapp3.1\EmployeeClient.genruntimeconfig.cache
 C:\Users\user\source\repos\POC\EmployeeClient\obj\Debug\netcoreapp3.1\EmployeeClient.csproj.CopyComplete
+C:\Users\user\source\repos\POC\EmployeeClient\obj\Debug\netcoreapp3.1\scopedcss\bundle\EmployeeClient.styles.css
