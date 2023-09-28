@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Employee Details</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script type="text/javascript">
+
+
+        var uri = 'http://localhost:50767/api/Employee';
+        function formatItem(item) {
+            return 'Id:' + item.id + ', ' + 'Name:' + item.name + ', ' + 'Company:' + item.company + ', ' + 'Post:' + item.post;
+        }
+        function find() {
+            var id = $('#id').val();
+            var name = $('#name').val();
+            $.getJSON(uri + '/' + id + '/' + name)
+                .done(function (data) {
+                    $('#textarea').text(formatItem(data));
+                })
+                .fail(function (jqXHR, textStatus, err) {
+                    $('#textarea').text('error' + err);
+                })
+        }
+    </script>
+</head>
+<body>
+    <label for="id">ID</label><br />
+    <input type="text" id="id" name="id" /><br /><br />
+    <label for="name">NAME</label><br />
+    <input type="text" id="name" name="name" /><br /><br />
+    <input id="btn" type="button" value="Get Details" onclick="find();" />
+    <br />
+    <br />
+    <br />
+    <br />
+    <label for="textarea">RESPONSE</label><br />
+    <textarea id="textarea" name="textarea" rows="5" cols="80"></textarea>
+</body>
+</html>
